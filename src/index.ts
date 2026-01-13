@@ -1,2 +1,3 @@
-export { AnyFunction } from "./function1";
-export { memoize } from "./memoize";
+export type { AnyFunction } from "./function1.js";
+export { memoize } from "./function1.js";
+export { toRoman } from "./function2.js";
